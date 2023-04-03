@@ -1,0 +1,25 @@
+{
+    "cSpell.words": [
+        "favourite",
+        "multipleclick",
+        "phonenumber",
+        "verifyacending",
+        "verifydecending"
+    ],
+    "cSpell.enableFiletypes": [
+        "feature"
+    ],
+    "cSpell.words": [
+        "multipleclick",
+        "phonenumber",
+        "verifyacending",
+        "verifydecending"
+    ],
+    "grammarly.selectors": [
+        {
+            "language": "feature",
+            "scheme": "file"
+        }
+    ],
+    "cucumberautocomplete.onTypeFormat": true
+}
